@@ -28,8 +28,3 @@ npm start
 2. Import repository into Vercel
 3. Click Deploy
 
-## Suggested Improvements
-- Add authentication
-- Integrate Stripe payments
-- Connect MongoDB/PostgreSQL
-- Add admin dashboard
